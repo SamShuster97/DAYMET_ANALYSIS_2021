@@ -3,4 +3,4 @@ Analysis of precipitation data from the DAYMET data. State of Georgia used as st
 
 Subsetting of data conducted using the Jupyter Notebook that can be found in the repo folder.
 
-This work is conducted by Sam Shuster and sponsored by Dr. Marshall Shepherd from the University of Georgia.
+This work is conducted by Sam Shuster and sponsored by Dr. Marshall Shepherd from the University of Georgia and funding from the National Academy of Sciences.
